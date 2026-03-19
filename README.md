@@ -1,2 +1,3 @@
-# simple-analytics-dashboard-fpii
-Automated issue comment bot repository
+# Simple Analytics Dashboard Fpii
+
+Automated issue comment bot repository.
